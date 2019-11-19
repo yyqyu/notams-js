@@ -79,3 +79,33 @@ This Example shows one Notam for "EHAM" (Amsterdam Airport Schiphol).
         "upperLimit": null,
         "codes": "IV\/A\/M"
     }
+```
+    
+# API
+most useful values
+
+`notams.notam`
+
+`notams.series`
+
+`notams.number`
+
+`notams.qcode`
+
+`notams.text`
+
+Input Type: 
+
+- `string`
+
+Valid values:
+
+- a single ICAO code
+
+## Contributing
+
+Contributions welcome!
+
+## License
+
+No License available yet
