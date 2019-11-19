@@ -100,7 +100,7 @@ Input Type:
 
 Valid values:
 
-- a single ICAO code
+- `a single ICAO code`
 
 ## Contributing
 
